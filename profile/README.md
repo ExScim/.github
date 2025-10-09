@@ -1,5 +1,5 @@
 # ExScim
-[![ExScim CI](https://github.com/ExScim/ex_scim/actions/workflows/ex_scim.yml/badge.svg)](https://github.com/ExScim/ex_scim/actions/workflows/ex_scim.yml)
+[![ExScim CI](https://github.com/ExScim/ex_scim/actions/workflows/ex_scim.yml/badge.svg)](https://github.com/ExScim/ex_scim/actions/workflows/ex_scim.yml)[![ExScim Client CI](https://github.com/ExScim/ex_scim_client/actions/workflows/ex_scim_client.yml/badge.svg)](https://github.com/ExScim/ex_scim_client/actions/workflows/ex_scim_client.yml)
 
 SCIM 2.0 implementation in Elixir.  
 Based on the official specifications:  
